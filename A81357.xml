@@ -1,0 +1,813 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the funeral solemnities, performed in the church of Nostre-Dame, at Paris: to honour the memory of his excellency the Lord Henry de la Tour D'Avergne Vicount Turenne Colonel General of the light horse, and Marshall General of the Field and armies of Lewis the XIV of France. Wherein are represented the most remarkable passages of his life. Done into English out of French, by a gentleman that sometimes had the honour to serve under his command.</title>
+            <author>Menestrier, Claude-Franc&amp;#xbf;ois, 1631-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81357</idno>
+            <idno type="STC">Wing D1160</idno>
+            <idno type="STC">ESTC R226978</idno>
+            <idno type="EEBO-CITATION">99897227</idno>
+            <idno type="PROQUEST">99897227</idno>
+            <idno type="VID">136218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2480:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the funeral solemnities, performed in the church of Nostre-Dame, at Paris: to honour the memory of his excellency the Lord Henry de la Tour D'Avergne Vicount Turenne Colonel General of the light horse, and Marshall General of the Field and armies of Lewis the XIV of France. Wherein are represented the most remarkable passages of his life. Done into English out of French, by a gentleman that sometimes had the honour to serve under his command.</title>
+                  <author>Menestrier, Claude-Franc&amp;#xbf;ois, 1631-1705.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCLXXV. [1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turenne, Henri de La Tour d'Auvergne, --  vicomte de, 1611-1675 --  Early works to 1800.</term>
+               <term>Funeral rites and ceremonies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136218:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION OF THE Funeral Solemnities, Performed in the Church of <hi>Noſtre-Dame,</hi> at <hi>PARIS:</hi> To Honour the Memory of his Excellency the Lord <hi>HENRY</hi> de la <hi>Tour D'Avergne</hi> VICOUNT TURENNE, Colonel General of the Light Horſe, And Marſhal General of the Field and Armies of <hi>Lewis</hi> the XIV of <hi>France.</hi>
+            </p>
+            <p>Wherein are repreſented the moſt Remarkable paſſages of his LIFE.</p>
+            <p>Done into <hi>Engliſh</hi> out of <hi>French,</hi> by a Gentleman that ſome<g ref="char:EOLhyphen"/>times had the Honour to ſerve under his Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:136218:2"/>
+            <pb n="1" facs="tcp:136218:2"/>
+            <head>The Deſign of the Funeral Repre<g ref="char:EOLhyphen"/>ſentation.</head>
+            <p>AS Marſhal <hi>Turenne</hi> was no leſs Pious than Valiant, ſo it ſeems not unreaſo<g ref="char:EOLhyphen"/>nable to bring in the Chriſtian and Military Vertues, as Mourners to aſſiſt at his Funeral, thoſe kind of decorations being both <hi>Chriſtian</hi> and <hi>Military;</hi> they are <hi>Chriſtian</hi> ſince they are practiceable in the moſt Sacred places, and in our moſt Holy myſteries, whither the faith<g ref="char:EOLhyphen"/>ful are invited to Celebrate the Memories of great Souls; and they are <hi>Military,</hi> becauſe they are repreſentatives of their moſt Heroick Actions, wherein their Valour and Piety are equally praiſed.</p>
+            <p>The firſt Object that offers it ſelf to the ſpectators eye, is a Trophie of Arms, Colours, Drums, Trumpets, &amp;c. over the Portal of the
+<pb n="2" facs="tcp:136218:3"/>Quire of our Ladies Church, under which ſtands Vertue arm'd, holding in her hand a Church Banner, which is the Arms of the Houſe of <hi>Avergne,</hi> whereon are written theſe Verſes of the Tenth Book of <hi>Virgils Aeneids.</hi>
+            </p>
+            <q>
+               <l>Stat ſua Cuique dies;</l>
+               <l>Breve &amp; irreparabile tempus</l>
+               <l>Omnibus est vitæ,</l>
+               <l>Sed famam extendere factis</l>
+               <l>Hoc virtutis opus.</l>
+            </q>
+            <p>Which is, That there is a peremptory day ſet to every mortal by the Eternal Wiſdom, be<g ref="char:EOLhyphen"/>yond which none ſhall paſs, that the time of Mans life is ſhort, and once over, never to be retrieved, and that it is <hi>Vertue</hi> alone that can make us ſurvive Death, by the memory of our good deeds,</p>
+            <p>On both ſides of her, ſtand two great Skelletons, holding with one hand the Crown of a Prince, and a Leading-ſtaff; with the other a marble Table, in which is Graven this Inſcription.</p>
+            <pb n="3" facs="tcp:136218:3"/>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Piis &amp; Heroicis Manibus</hi>
+                  </l>
+                  <l>HENRICI <hi>à Turre</hi>
+                  </l>
+                  <l>
+                     <hi>Vicecomitis</hi> TURENNII</l>
+                  <l>
+                     <hi>Magiſtri Equitum</hi>
+                  </l>
+                  <l>
+                     <hi>&amp;</hi>
+                  </l>
+                  <l>
+                     <hi>Caſtrorum Præfecti</hi>
+                  </l>
+                  <l>
+                     <hi>MOERENS</hi> GALLIA</l>
+                  <l>
+                     <hi>Funus Celebrat publicum.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Adeſte Cives</hi>
+                  </l>
+                  <l>
+                     <hi>Adeſte Milites</hi>
+                  </l>
+                  <l>
+                     <hi>Adeſte boni Omnes</hi>
+                  </l>
+                  <l>
+                     <hi>Et lacrimas Cineri date.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Terrorem hoſtium</hi>
+                  </l>
+                  <l>GALLIA;</l>
+                  <l>
+                     <hi>Heroem</hi>
+                  </l>
+                  <l>
+                     <hi>Artes Bellicæ;</hi>
+                  </l>
+                  <l>
+                     <hi>Salutis publicæ aſſertorem</hi>
+                  </l>
+                  <l>
+                     <hi>Regni Ordines</hi>
+                  </l>
+                  <l>
+                     <hi>Amiſere.</hi>
+                  </l>
+               </lg>
+            </q>
+            <pb n="4" facs="tcp:136218:4"/>
+            <p>In <hi>Engliſh,</hi> Mourning <hi>France</hi> pays her laſt Devoir, in theſe Funeral Rites, to the memory of <hi>Henry de la Tour</hi> Viſcount <hi>Turenne,</hi> Colonel General of all the Light horſe, and Martial General of the Field and Armies of his Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>You Citizens, Souldiers, and all good men that honour his memory, aſſiſt at his Funeral and weep over his Aſhes.</p>
+            <p>
+               <hi>France</hi> loſt in him the terror of her Ene<g ref="char:EOLhyphen"/>mies, <hi>Mars</hi> has loſt a Hero, and all the Orders of the Kingdom, the aſſertor of their Peace.</p>
+            <p>This Funeral was ordered by his Majeſty to be publickly performed,<note place="margin">Nullum fu<g ref="char:EOLhyphen"/>nus publi<g ref="char:EOLhyphen"/>cum fuit niſi à Senatu de<g ref="char:EOLhyphen"/>cerneretur. <hi>Jac. Guth. de Jure ma<g ref="char:EOLhyphen"/>nium <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 2. c. 1.</hi> Addit equos &amp; tela, qui<g ref="char:EOLhyphen"/>bus ſpoliave<g ref="char:EOLhyphen"/>rat hoſtem; Indutoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ju<g ref="char:EOLhyphen"/>bet truncos hoſtilibus Ar<g ref="char:EOLhyphen"/>mis, ipſos fer<g ref="char:EOLhyphen"/>re duces, ini<g ref="char:EOLhyphen"/>mica<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> nomi<g ref="char:EOLhyphen"/>na figi. <hi>Æn. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> and all the Orders of the Kingdom to be there aſſiſtant.</p>
+            <p>It was uſual among the Antients, when a Prince or General of an Army, did not ſur<g ref="char:EOLhyphen"/>vive his Victories, that he might receive the Honour of a Triumph, to dreſs Trophies a<g ref="char:EOLhyphen"/>bout his Tomb, and make them be carried by Officers and Souldiers in the proceſſion of his Funeral; it was ſo practiced in the Fu<g ref="char:EOLhyphen"/>neral of <hi>Pallas.</hi>
+            </p>
+            <pb n="5" facs="tcp:136218:4"/>
+            <div type="list_of_trophies">
+               <p>The ſame thing was done for Marſhal <hi>Turenne,</hi> who fell in Battel. For beſides the Eſcotcheons of his Arms, which were hung upon all the Pillars and Columns of the Church, there were eighteen Trophies conſe<g ref="char:EOLhyphen"/>crated to his Heroick Atchievements in theſe laſt Wars.</p>
+               <p>They might have repreſented all the Fights and Battails wherein he has been perſonally in<g ref="char:EOLhyphen"/>gaged, ſince he was but thirteen years of Age, when firſt he bore Arms under his Uncle the Prince of <hi>Orange,</hi> at the ſiege of <hi>Boiſleduc,</hi> all the occaſions in which he Commanded, all the Cities and Fortified places which he took: But as his laſt Actions were as glorious as any others of his Life, and that many of the Spe<g ref="char:EOLhyphen"/>ctators of this Funeral pomp, might have been eye-witneſſes of them, it was thought fit to il<g ref="char:EOLhyphen"/>luſtrate theſe, concluding, that if eighteen Tro<g ref="char:EOLhyphen"/>phies were but the Atchievements of three or four years, it might eaſily be judged what were the wonders of a Life ſo illuſtrious as his for the ſpace of threeſcore and four years.</p>
+               <pb n="6" facs="tcp:136218:5"/>
+               <p>The Inſcriptions of theſe Trophies were,</p>
+               <p n="1">I.</p>
+               <q>
+                  <l>
+                     <hi>Arce Skenkiana expugnata,</hi>
+                  </l>
+                  <l>The taking of Skinkſcons.</l>
+               </q>
+               <p n="2">II.</p>
+               <q>
+                  <l>
+                     <hi>Nouiomago, Bomelia, Arnhemio, Buricio, Crepicordio ſubactis,</hi>
+                  </l>
+                  <l>The taking of Numigen, Bomen, Arnheim, Burick Creuecœur.</l>
+               </q>
+               <p n="3">III.</p>
+               <q>
+                  <l>
+                     <hi>Tribus oppidis ad Viſurgium ſpectante hoste Captis.</hi>
+                  </l>
+                  <l>The taking three Towns upon the <hi>Weſer,</hi> in the face of the Enemy.</l>
+               </q>
+               <p n="4">IV.</p>
+               <q>
+                  <l>
+                     <hi>Ob Hermunduros intra fines cohibitos.</hi>
+                  </l>
+                  <l>Blocking up the Enemy within <hi>Franconia.</hi>
+                  </l>
+               </q>
+               <p n="5">V.</p>
+               <q>
+                  <l>
+                     <hi>Ob repreſſos Hermiones &amp; ad pacem coactos.</hi>
+                  </l>
+                  <l>For repelling the Brandeburgers, and forcing them to a Peace.</l>
+               </q>
+               <p n="6">VI.</p>
+               <q>
+                  <l>
+                     <hi>Marcomannis &amp; Suabis territis.</hi>
+                  </l>
+                  <l>For having terrified the Miſnians and Suabi<g ref="char:EOLhyphen"/>ans.</l>
+               </q>
+               <pb n="7" facs="tcp:136218:5"/>
+               <p n="7">VII.</p>
+               <q>
+                  <l>
+                     <hi>Ob profligatos Nervios.</hi>
+                  </l>
+                  <l>For defeating the Borderers upon the Rhine.</l>
+               </q>
+               <p n="8">VIII.</p>
+               <q>
+                  <l>
+                     <hi>Hoſtibus aditu prohibitis.</hi>
+                  </l>
+                  <l>For keeping the Enemy from entring into Lorraine and Champagne.</l>
+               </q>
+               <p n="9">IX.</p>
+               <q>
+                  <l>
+                     <hi>Cæſarianis retrocedere Coactis.</hi>
+                  </l>
+                  <l>For forcing the Imperialiſts to repaſs the Rhine.</l>
+               </q>
+               <p n="10">X.</p>
+               <q>
+                  <l>
+                     <hi>Treboccis in ordinem redactis.</hi>
+                  </l>
+                  <l>For obliging thoſe of Strasburg to ſtand to the Neutrality.</l>
+               </q>
+               <p n="1">XI.</p>
+               <q>
+                  <l>
+                     <hi>Direptis ſpoliis.</hi>
+                  </l>
+                  <l>For taking the Enemies Baggage.</l>
+               </q>
+               <p n="12">XII.</p>
+               <q>
+                  <l>
+                     <hi>Signis Direptis.</hi>
+                  </l>
+                  <l>He retook the Colours the Enemy had taken.</l>
+               </q>
+               <pb n="8" facs="tcp:136218:6"/>
+               <p n="13">XIII.</p>
+               <q>
+                  <l>
+                     <hi>Ob Rhenum, Salam, Mænum, Iſſalam, Vahalim, pon<g ref="char:EOLhyphen"/>tibus Junctos &amp; ſuperatos.</hi>
+                  </l>
+                  <l>He paſſed the Rhine, the Maine, and divers o<g ref="char:EOLhyphen"/>ther Rivers, to come to the Enemy.</l>
+               </q>
+               <p n="14">XIV.</p>
+               <q>
+                  <l>
+                     <hi>Ob Acciſas quatuor præliis Germaniæ vires.</hi>
+                  </l>
+                  <l>For gaining the four battles of <hi>Zint Zim, Ent-Zim, Mulhauſen</hi> and <hi>Turqueim,</hi> where he rout<g ref="char:EOLhyphen"/>ed the chief forces of Germany.</l>
+               </q>
+               <p n="15">XV.</p>
+               <q>
+                  <l>
+                     <hi>Ob ſervatam Alſatiam.</hi>
+                  </l>
+                  <l>For defending Alſatia, and the Towns of Bri<g ref="char:EOLhyphen"/>ſac and Philipsbourg.</l>
+               </q>
+               <p n="16">XVI.</p>
+               <q>
+                  <l>
+                     <hi>Duci Invicto.</hi>
+                  </l>
+                  <l>mo the Invincible Captain.</l>
+               </q>
+               <p n="17">XVII.</p>
+               <q>
+                  <l>
+                     <hi>Patri Caſtrorum.</hi>
+                  </l>
+                  <l>He was truly a father to the Souldiers.</l>
+               </q>
+               <p n="18">XVIII.</p>
+               <q>
+                  <l>
+                     <hi>Victori, Pio, Fœlici, &amp; Sapienti.</hi>
+                  </l>
+               </q>
+               <pb n="9" facs="tcp:136218:6"/>
+               <p>All theſe Trophies were counterfeited in Braſs, and placed betwixt great Eſcotche<g ref="char:EOLhyphen"/>ons, ſurmounted with Cornets or Horſe Ban<g ref="char:EOLhyphen"/>ners, to ſhew that he was Colonel General of the Light Horſe; and ſurrounded with a great Mantle of Ermins, ſuch as the Princes, Dukes, and Peers of <hi>France</hi> give in their Arms.</p>
+            </div>
+            <div type="part">
+               <p>The <hi>Mauſoleum</hi> or Funeral pile,<note place="margin">The <hi>Italians</hi> call theſe <hi>Mauſoles, Catafalque,</hi> but this word not being u<g ref="char:EOLhyphen"/>ſed but by Painters and Sculptors, was not made uſe of in this deſcription; the Greeks &amp; Latins uſing only the word <hi>Mauſoleum. Joſeph. hiſt. Jews.</hi>
+                  </note> placed in the middle of the Quire, was a round Tower upon a Mount, betwixt four great Palm-trees, charged with Arms and Trophies, and Crown<g ref="char:EOLhyphen"/>ed with three Crowns, a <hi>Princes Crown,</hi> a <hi>Crown of Lawrel,</hi> and a <hi>Crown of Stars,</hi> between every tree were <hi>Flower de Luces.</hi> Over the <hi>Tower</hi> the four <hi>Vertues</hi> upheld an <hi>
+                     <g ref="char:V">Ʋ</g>rn,</hi> after the manner of the Antients, ſhaped like a <hi>Tomb,</hi> upon which <hi>Immortality</hi> trampling upon <hi>Death</hi> car<g ref="char:EOLhyphen"/>ries the Image or Picture of Marſhal <hi>Turenne</hi> towards <hi>Heaven.</hi>
+               </p>
+               <p>By this is meant the <hi>Tower</hi> of <hi>David,</hi>
+                  <note place="margin">
+                     <hi>Adricomius</hi> interpreter of the Can<g ref="char:EOLhyphen"/>ticles upon theſe words.</note> ſo famous in Holy Writ, built upon Mount <hi>Sion,</hi> fronting four ways, the <hi>Temple,</hi> the
+<pb n="10" facs="tcp:136218:7"/>Kings <hi>Palace,</hi>
+                  <note place="margin">Sicut Turris <hi>David</hi> vidi. Collum tu<g ref="char:EOLhyphen"/>um. <hi>Cant. 4</hi>
+                  </note> the <hi>Arſenal,</hi> or <hi>Armoric,</hi> and the publick <hi>Schools,</hi> and had as many Gates towards theſe ſeveral Buildings; a thouſand <hi>Shields</hi> hung at the Arches or Niches, and Windows thereof; this <hi>Tower</hi> was equally an ornament and ſafeguard to the City of <hi>Hieru<g ref="char:EOLhyphen"/>ſalem.</hi>
+               </p>
+               <p>The Mauſolea of Princes have frequently been erected in form of a Tower. The Tomb of <hi>Augustus,</hi> and that of <hi>Adrian,</hi> were made in this ſhape, the Books of the Eccleſiaſtical Ceremonies, call the <hi>Cœnotaphe,</hi> or place of Repreſentations, <hi>Caſtrum Doloris,</hi> becauſe they antiently were built like Towers, haply be<g ref="char:EOLhyphen"/>cauſe Towers are the <hi>Emblems</hi> of Princes,<note place="margin">Cum cecide<g ref="char:EOLhyphen"/>rint Tueres. <hi>Iſa. 30.</hi>
+                  </note> and Great men in ſacred Oracles.</p>
+               <p>The Name of <hi>Turenne,</hi> and the Atchieve<g ref="char:EOLhyphen"/>ment of his Houſe, which are a Field Azure parſemè of <hi>Fleurs de Lys Or,</hi> a Tower Argent; ſeem to make this Application of the Tower of <hi>David</hi> more happy, and particular to this Subject.</p>
+               <p>Which likewiſe makes the four Gates of
+<pb n="11" facs="tcp:136218:7"/>this Tower, applicable to the four peculiar Vertues of Marſhal <hi>Turenne,</hi> to his <hi>Piety,</hi> to his <hi>Stedfastneſs</hi> in the Kings Service, to his <hi>Valour,</hi> and to his <hi>Wiſdom,</hi> and therefore was written upon the four frontiſpieces or faces of the Urn, theſe four words.</p>
+               <list>
+                  <item>
+                     <hi>Religioni.</hi>
+                  </item>
+                  <item>
+                     <hi>Fidei.</hi>
+                  </item>
+                  <item>
+                     <hi>Fortitudini.</hi>
+                  </item>
+                  <item>
+                     <hi>Sapientiæ.</hi>
+                  </item>
+               </list>
+               <p>They thought fit likewiſe to place theſe In<g ref="char:EOLhyphen"/>ſcriptions,<note place="margin">
+                     <hi>Adricomius</hi> in Theatro terræ ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nctæ. Domus For<g ref="char:EOLhyphen"/>tium. Turris For<g ref="char:EOLhyphen"/>titudinis. Sapienta ædi <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cavit. <hi>Prov. 9.</hi>
+                  </note> after the Antient model of the Tower of <hi>David,</hi> which to the <hi>East</hi> faced the <hi>Temple,</hi> to the <hi>South</hi> the Houſe of the <hi>Mighty,</hi> from whence perhaps it was called the Tower of <hi>Valour,</hi> to the <hi>North</hi> the <hi>Kings Palace,</hi> and to the <hi>Weſt</hi> the Houſe of <hi>Wiſdom.</hi>
+               </p>
+               <p>The four Vertues that create a Hero are theſe, <hi>Religion</hi> makes him an honeſt man, <hi>Fi<g ref="char:EOLhyphen"/>delity</hi> a man of Honour,<note place="margin">
+                     <hi>The Author happily meant the 4 Cardinal Vertues,</hi> pru<g ref="char:EOLhyphen"/>dence, forti<g ref="char:EOLhyphen"/>tude, pati<g ref="char:EOLhyphen"/>ence, tempe<g ref="char:EOLhyphen"/>rance.</note> 
+                  <hi>Prudence</hi> a man of un<g ref="char:EOLhyphen"/>derſtanding, and <hi>Fortitude</hi> a man of courage; He that was maſter of theſe four Vertues, was the <hi>vir quadratus</hi> of the Antients.</p>
+               <pb n="12" facs="tcp:136218:8"/>
+               <p>The four Vertues that bear up the <hi>
+                     <g ref="char:V">Ʋ</g>rn,</hi> are <hi>Religion,</hi>
+                  <note place="margin">Ex quatuor literis hujus nominis. Neſcio qua ratione Tur<g ref="char:EOLhyphen"/>rim quadra<g ref="char:EOLhyphen"/>tam confici<g ref="char:EOLhyphen"/>unt. <hi>Joad. Quir. d'Sal<g ref="char:EOLhyphen"/>lazar in c. 18. Prov.</hi> Turris fortiſ<g ref="char:EOLhyphen"/>ſima nomen domini, ad ipſam currit juſtus &amp; ex<g ref="char:EOLhyphen"/>altabitur.</note> 
+                  <hi>Fidelity, Valour,</hi> and <hi>Wiſdom.</hi> Religi<g ref="char:EOLhyphen"/>on hath written upon her Breaſt the ineffable <hi>Name</hi> of <hi>God,</hi> compoſed of four Hebrew let<g ref="char:EOLhyphen"/>ters, which the <hi>Rabbins</hi> diſpoſed into the form of a Tower, which made the Wiſe man ſay, that the Name of the Lord was a very ſtrong Tower, where a good man ſhould find his re<g ref="char:EOLhyphen"/>fuge, and whence he ought to take his riſe and glory.</p>
+               <p>This Vertue with one hand bears up the Urn, and in the other carries one of thoſe kind of filver Towers, which the Primitive Church uſed for Lamps, of which for the moſt part the Sockets in which the Light was ſet, were made like <hi>Dolphins.</hi>
+               </p>
+               <p>This <hi>Tower</hi> and theſe <hi>Dolphins,</hi> ſhew no leſs the Character of Marſhal <hi>Turenne's</hi> Family, than his own ſingular Piety, ſince that of the <hi>Tower</hi> of <hi>Avergne,</hi> is the ſame with that of the <hi>Tower</hi> of <hi>Pin,</hi> branches of the third <hi>Race</hi> of the <hi>Antient Dolphins.</hi>
+               </p>
+               <p>The Emblem of <hi>Fidelity,</hi> is a Tower with
+<pb n="13" facs="tcp:136218:8"/>Keys, there is nothing ſhows more the fidelity of Governors, then their care in defending the places committed to their truſt.</p>
+               <p>The <hi>Symbole</hi> of Fortitude is a Tower fur<g ref="char:EOLhyphen"/>niſhed with all ſorts of Arms, for its defence.</p>
+               <p>
+                  <hi>Wiſdom</hi> device, is a Watch-Tower to diſco<g ref="char:EOLhyphen"/>ver a great way off, whatever ſails upon the Sea, whoſe uſe is to ſhew Veſſels the Harbour, and how ſafely to get to it, as well as Rocks and Shelves, and how prudently to avoid them.</p>
+               <p>Upon the Shields that hung upon the Walls were painted the Royal Enſigns Armo<g ref="char:EOLhyphen"/>rial of <hi>France, Navarre, Arragon, Castile, Eng<g ref="char:EOLhyphen"/>land, Portugal, Sweden, Denmark, Poland, Hunga<g ref="char:EOLhyphen"/>ry, Sicily, Bohemia, Cyprus</hi> and <hi>Scotland.</hi>
+               </p>
+               <p>The Imperial Coat Armours of <hi>Naſſaw, Bavaria, Saxony</hi> and <hi>Auſtria.</hi>
+               </p>
+               <p>Alſo the Atchievements of Soveraign Fa<g ref="char:EOLhyphen"/>milies, as of <hi>Savoy,</hi> the <hi>Antient Dolphins, Mantua, Lorrain</hi> and <hi>Heſſe,</hi> to which the Houſe of <hi>Tours</hi> of <hi>Avergne</hi> is Allied, and from which by mat<g ref="char:EOLhyphen"/>ches it deſcends.</p>
+               <pb n="14" facs="tcp:136218:9"/>
+               <p>The Repreſentations are placed betwixt the four Gates of the Tower,<note place="margin">Equeſter or<g ref="char:EOLhyphen"/>do ſuſcepit urbique in<g ref="char:EOLhyphen"/>tulit atque in veſtibulo domus collo<g ref="char:EOLhyphen"/>cavit. <hi>Suet. in Auguſt.</hi>
+                  </note> after the manner of former Ages, in which it was uſual to ex<g ref="char:EOLhyphen"/>poſe the Bodies of Princes and Illuſtrious perſons, at the Gates of their Pallaces; <hi>Sueto<g ref="char:EOLhyphen"/>nius</hi> ſays, that the <hi>Roman Knights</hi> carried the Body of <hi>Augustus,</hi> and placed it at the Gate of his Pallace.</p>
+               <p>There were branches of Lawrel,<note place="margin">Extructoſque Thoros ob<g ref="char:EOLhyphen"/>tentu frondis inumbrant. <hi>XI Aencid.</hi>
+                  </note> Palm and Cypreſs, about the Repreſentation; <hi>Virgil</hi> de<g ref="char:EOLhyphen"/>ſcribing the Funeral of <hi>Pallas,</hi> puts branches or bows of trees about the Herſe.</p>
+               <p>The four Trophies that hung upon the four Palm-trees about the Tower, did repre<g ref="char:EOLhyphen"/>ſent Marſhal <hi>Turenne's</hi> Victories in <hi>Germany, Italy, Flanders</hi> and <hi>Catalonia,</hi> which are the four frontiers of <hi>France.</hi>
+               </p>
+               <p>The three Crowns that ſeem to grow upon thoſe trees,<note place="margin">Dabo tibi Coronam vitæ. <hi>Apoc. 2.</hi> In reliquo re<g ref="char:EOLhyphen"/>poſita eſt mi<g ref="char:EOLhyphen"/>hi corona juſtitiæ. <hi>2 Tim. 4.</hi>
+                  </note> and to Crown the Trophies, are the Crowns of our <hi>Birth, Life</hi> and <hi>Death,</hi> of which mention is ſo often made in the ſacred Hiſtory, and they are applicable to Marſhal <hi>Turenne,</hi> more properly than to many others,
+<pb n="15" facs="tcp:136218:9"/>ſince he was born in <hi>greatneſs,</hi> which is re<g ref="char:EOLhyphen"/>preſented by the Crown of a Prince, he lived in the midſt of <hi>Combats</hi> and <hi>Victories,</hi> which is ſhewn by the Crown of Lawrel, and died in the bed of <hi>Honour,</hi> which is ſignified by the Crown of Stars; giving to underſtand that to be a true Hero, it is requiſite to be <hi>high born,</hi> to perform great and glorious <hi>Actions,</hi> and to dye with <hi>Honour,</hi> as Marſhal <hi>Turenne</hi> did.</p>
+               <p>The Palms were intermixt with <hi>Flower de Luces,</hi> environed with rays, to ſhew that Mar<g ref="char:EOLhyphen"/>ſhal <hi>Turenne</hi> made the ſplendor of his <hi>Birth, Life</hi> and <hi>Death,</hi> ſerve to augment the <hi>Glory</hi> of <hi>France.</hi>
+               </p>
+               <p>Under theſe Trees ſtood <hi>Honour, Reputation,</hi> and <hi>Glory,</hi> bewailing the fall of this great <hi>Man,</hi> but <hi>Reputation</hi> and <hi>Glory</hi> were writing his Name and Character upon great <hi>ſhields</hi> or <hi>bucklers,</hi> to render his <hi>Memory</hi> eternal; under their feet theſe Monſters lay in Chains, viz. <hi>Envy, Raſhneſs, Precipitation, Cowardice, Self-Interest, Impiety,</hi> &amp;c.</p>
+               <pb n="16" facs="tcp:136218:10"/>
+               <p>The Antients reckoned their years by branches of <hi>Palm,</hi> becauſe that Tree puts forth every month a new branch, ſo that twelve branches of <hi>Palm</hi> ſignified a <hi>Year</hi> amongſt the <hi>Egyptians</hi> and <hi>Jews,</hi> it was enough to repre<g ref="char:EOLhyphen"/>ſent here, the four ages of Marſhal <hi>Turenne,</hi> by theſe four <hi>Palms;</hi> his <hi>Infancy,</hi> his <hi>Youth,</hi> his <hi>Manhood,</hi> and his <hi>Old-age,</hi> all which he ſpent in exerciſe of <hi>Arms,</hi> which he began to wear at the age of <hi>thirteen,</hi> under the Prince of <hi>Orange</hi> his Uncle by the Mother, at the ſiege of <hi>Boiſle<g ref="char:EOLhyphen"/>duc,</hi> where he was made Captain of Foot, and ſince advanced through all the <hi>Military de<g ref="char:EOLhyphen"/>grees,</hi>
+                  <note place="margin">Tu largus Eoa germi<g ref="char:EOLhyphen"/>na, tu meſſes Cilicumque Arabumque ſuperbis mer<g ref="char:EOLhyphen"/>ge rogis; ferat ignis opus hæredis, &amp; alto aggere miſſuri nitido pia Nubila Cælo, ſtipen<g ref="char:EOLhyphen"/>tur Cineres. <hi>Stat. l. 3 Sylv. in lacrim. Hetruſci.</hi>
+                  </note> to the ſupream dignity of <hi>Marſhal Gene<g ref="char:EOLhyphen"/>ral</hi> of the <hi>Field</hi> and <hi>Armies</hi> of the King, in which he ended his days.</p>
+               <p>The <hi>Antients</hi> did not only Embalm the Bodies of Great men, to preſerve them from corruption, but alſo burnt perfumes over their Tombs, which in proceſs of time became a kind of Sacrifice, the ſmoak of theſe perfumes naturally ſoaring upwards, made them believe their ſmell aſcended up to Heaven, with which
+<pb n="17" facs="tcp:136218:10"/>they fancied their Gods were much pleaſed. <hi>Orpheus</hi> a famous antient Poet, did not only offer Incenſe to his fictitious Gods, but like<g ref="char:EOLhyphen"/>wiſe to the <hi>Memory,</hi> the <hi>Judgment, Justice, Death, Victory,</hi> and to all the Vertues.</p>
+               <p>It was believed that the Vertues and great Actions of Marſhal <hi>Turenne,</hi> did merit per<g ref="char:EOLhyphen"/>fumes of this nature; and even his <hi>Death,</hi> which happen'd as fatal to <hi>France,</hi> as it was glorious to himſelf.</p>
+               <p>For this very reaſon upon the Prebends Seats all round the Quire, were placed ſeveral antique faces, born up with braſs baſes or brackets, couched upon back marble, out of which did iſſue Deaths heads of ſilver, crown'd with Lawrel, with bats ears of ſilver, being the Emblems of Night and Death, upon each of theſe antiques ſtood a veſſel of Porphiry fu<g ref="char:EOLhyphen"/>ming; betwixt theſe antique faces or fronts were placed <hi>Towers</hi> of ſilver, whence flamed ſweet odours and perfumes, becauſe the <hi>Anti<g ref="char:EOLhyphen"/>ents</hi> uſed to ſet little Boxes like Towers upon the Tombs of their Hero's, every Tower was
+<pb n="18" facs="tcp:136218:11"/>environed with four <hi>Flower des Lys</hi> of Gold, in which, as well as on the antiques, were pla<g ref="char:EOLhyphen"/>ced flambois and great wax lights.</p>
+            </div>
+            <div type="list_of_hieroglyphics">
+               <p>Under theſe faces were ſet two and thirty Hieroglyphicks upon the <hi>Birth, Life, Glorious Atchievements, Vertues,</hi> and <hi>Death</hi> of <hi>Turenne,</hi> as firſt,</p>
+               <p n="1">To ſhew the greatneſs of his high deſ<g ref="char:EOLhyphen"/>cent, was painted a Spring riſing out of a high Hill, with this Motto,
+<q>
+                     <l>
+                        <hi>Oriens ex Alto.</hi>
+                     </l>
+                     <l>He comes from a high place.</l>
+                  </q>
+               </p>
+               <p>It is neceſſary your Spring Head be at leaſt as high as the place to which you would make your water riſe. It was one of the advantages Marſhal <hi>Turenne</hi> had over many others, to be allied to all the Crown'd heads in <hi>Europe.</hi>
+               </p>
+               <p n="2">II.</p>
+               <p>A Heliotropion or Sun-flower, growing upon a very high ſtalk, which it ſhadowed with his leaves like rays.</p>
+               <pb n="19" facs="tcp:136218:11"/>
+               <q>
+                  <l>
+                     <hi>Cælſæ ſtirpis honos.</hi>
+                  </l>
+                  <l>He is the Honour of his race or ſtock.</l>
+               </q>
+               <p>Marſhal <hi>Turenne</hi> was an honor to his Houſe by his glorious <hi>Actions.</hi>
+               </p>
+               <p n="3">III.</p>
+               <p>An Eaglet in an Eirye, clapping his wings, and looking towards a great Eagle that flies in the air, with this of <hi>Virgil,</hi>
+                  <q>
+                     <l>
+                        <hi>Et pater Excitat.</hi>
+                     </l>
+                     <l>His father does incourage him.</l>
+                  </q>
+               </p>
+               <p>The great actions of <hi>Henry de la Toure,</hi> Duke of <hi>Bovillon,</hi> and Prince of <hi>Sedan</hi> his father, did raiſe his youthful courage to an inclination and propeſinty to warlike exploits, even from his childhood.</p>
+               <p n="4">IV.</p>
+               <p>A young Lyon following an old one, with this of <hi>Virgil,</hi>
+                  <q>
+                     <l>
+                        <hi>Æmulus in certamina.</hi>
+                     </l>
+                     <l>He will fight in his company.</l>
+                  </q>
+               </p>
+               <p>He followed his Uncle at 13 years of age, to the ſiege of <hi>Boiſleduc.</hi>
+                  <pb n="20" facs="tcp:136218:12"/>
+               </p>
+               <p n="5">V.</p>
+               <p>A ſquib afire in the air.</p>
+               <q>
+                  <l>
+                     <hi>Incandeſcit eundo.</hi>
+                  </l>
+                  <l>It takes fire as it goes.</l>
+               </q>
+               <p>So <hi>Turenne</hi> as he grew in years, ſo he ad<g ref="char:EOLhyphen"/>vanced in Courage, and love to warlike acti<g ref="char:EOLhyphen"/>ons, which he made appear at the ſiege of <hi>Saverne,</hi> where he received a wound with a Musket bullet, being then Colonel of a Regi<g ref="char:EOLhyphen"/>ment of Foot, which to his dying day bore his <hi>Name.</hi>
+               </p>
+               <p n="6">VI.</p>
+               <p>A Ship in a ſtorm, with this of the third Ode of <hi>Horace,</hi>
+                  <q>
+                     <l>
+                        <hi>Audax omnia perpeti.</hi>
+                     </l>
+                     <l>Bold to ſuffer all.</l>
+                  </q>
+               </p>
+               <p n="7">VII.</p>
+               <p>Never did the fatigue of War ſhake his re<g ref="char:EOLhyphen"/>ſolution, in which he rather took delight; which is expreſſed in the ſeventh Emblem, which was an Elephant charged with a wooden Tower full of armed men, with this of <hi>Virgil,</hi>
+                  <pb n="21" facs="tcp:136218:12"/>
+                  <q>
+                     <l>
+                        <hi>Nec me labor iſte Gravabit.</hi>
+                     </l>
+                     <l>Nor ſhall that weight oppreſs me.</l>
+                  </q>
+               </p>
+               <p n="8">VIII.</p>
+               <p>A Porcupine.</p>
+               <q>
+                  <l>
+                     <hi>Omnis mihi vita ſub armis.</hi>
+                  </l>
+                  <l>I paſs my life in Arms.</l>
+               </q>
+               <p>To ſhew the great inclination he always had for his Majeſties ſervice;</p>
+               <p n="9">IX.</p>
+               <p>A young Eagle ſoaring up to the Sun.</p>
+               <q>
+                  <l>
+                     <hi>Arduus at Solem.</hi>
+                  </l>
+               </q>
+               <p>To expreſs his exactneſs in obſerving his Majeſties Orders in all his Marches and en<g ref="char:EOLhyphen"/>terprizes;</p>
+               <p n="10">X.</p>
+               <p>A Sun Dial that has no other motion but that of the Sun, which it exactly nicks with his ſhadow.</p>
+               <q>
+                  <l>
+                     <hi>Obſervata ſequor vestigia.</hi>
+                  </l>
+                  <l>I punctually follow his motion.</l>
+               </q>
+               <p>For his Valour in taking of <hi>Dunkirk, Fur<g ref="char:EOLhyphen"/>nes, Bergen, Dixmund, Ipres, Ninove, Oudenard, Co<g ref="char:EOLhyphen"/>mines,</hi> and ſo many other Towns;
+<pb n="22" facs="tcp:136218:13"/>
+               </p>
+               <p n="11">XI.</p>
+               <p>A Granado in the Air.</p>
+               <q>
+                  <l>
+                     <hi>Et magnas territat <g ref="char:V">Ʋ</g>rbes.</hi>
+                  </l>
+                  <l>He makes the greateſt Cities ſhake.</l>
+               </q>
+               <p n="12">XII.</p>
+               <p>A great Eagle followed by many leſſer, with this half Verſe of <hi>Lucans</hi> ninth Book of <hi>Pharſalia,</hi>
+                  <q>
+                     <l>
+                        <hi>Monſtrat tolerare labores.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>He trained up to the exerciſe of Wars the Duke of <hi>Bovillon,</hi> the Count of <hi>Avergne,</hi> the Marſhal of <hi>Duras,</hi> and the Count <hi>de l'Orge</hi> his Nephews.</p>
+               <p>For his Piety, and duly praying to God morning and evening;</p>
+               <p n="13">XIII.</p>
+               <p>A double Sun-flower hanging with his head towards the Sun,
+<q>
+                     <l>
+                        <hi>Et ſanctum ſidus Adorat.</hi>
+                     </l>
+                     <l>He adores the great Planet.</l>
+                     <l>
+                        <hi>Quamvis radice tenetur.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Though he be faſt to the Earth by his roots, yet he ſtill looks towards Heaven, and turns to the Sun.
+<pb n="23" facs="tcp:136218:13"/>
+               </p>
+               <p n="14">XIV.</p>
+               <p>Cannons planted upon a Battery palliſadoed,
+<q>
+                     <l>
+                        <hi>Cœpti fiducia belli.</hi>
+                     </l>
+                     <l>The aſſurance of a war begun.</l>
+                  </q>
+               </p>
+               <p>The King in theſe laſt Wars looked upon him as one of his chief helps in all his Enterpri<g ref="char:EOLhyphen"/>ſes, and intruſted him with the greateſt deſigns of the Campagne.</p>
+               <p>For his <hi>Wiſdom, Conduct</hi> and <hi>Experience,</hi> in <hi>Mi<g ref="char:EOLhyphen"/>litary Affairs,</hi> arguing a man of a ſolid judgment;</p>
+               <p n="15">XV.</p>
+               <p>A battering Ram.</p>
+               <q>
+                  <l>
+                     <hi>Vis in Capite eſt.</hi>
+                  </l>
+                  <l>His ſtrength is in his Head.</l>
+               </q>
+               <p>For his Valour in forcing the Enemies trenches,</p>
+               <p n="16">XVI.</p>
+               <p>A flame from a Mine blowing up a Baſtion.</p>
+               <q>
+                  <l>
+                     <hi>Negata tentat iter Via.</hi>
+                  </l>
+                  <l>He makes way where he finds none.</l>
+               </q>
+               <p n="17">XVII.</p>
+               <p>A Watch, with a hand winding it up with a Key, with theſe words of <hi>Ennius,</hi>
+                  <q>
+                     <l>
+                        <hi>Cunctando reſtituit rem.</hi>
+                     </l>
+                     <l>By ſtaying it, he ſets it forward.</l>
+                  </q>
+               </p>
+               <p>To ſhew Marſhal <hi>Turenne</hi>'s <hi>Addreſs,</hi> when he
+<pb n="24" facs="tcp:136218:14"/>underſtood the Enemy were in <hi>Alſatia,</hi> with in<g ref="char:EOLhyphen"/>tention to invade <hi>Lorraine,</hi> he feigned a retreat, and paſſing with his Army by a place called <hi>La<g ref="char:EOLhyphen"/>petit Pierre,</hi> he coaſted the Mountains of <hi>Vauge,</hi> and taking his march through ſtreights, he fell into the Enemies quarters when they leaſt expected him, and forced them to repaſs the <hi>Rhine</hi> at <hi>Straſ<g ref="char:EOLhyphen"/>bourg,</hi> where of threeſcore thouſand men they had brought into <hi>Alſatia,</hi> ſcarce twenty thouſand got back. Thus the great <hi>Fabius</hi> defeated <hi>Hannibal,</hi> of whom <hi>Ennius,</hi>
+                  <q>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nus homo nobis cunctando restituit rem.</hi>
+                  </q>
+               </p>
+               <p n="18">XVIII.</p>
+               <p>A Lyon walking majeſtically, ſweeping with his ſtern or tail the track of his footſteps, that it might not appear where he paſſed, with this of Horace,
+<q>
+                     <l>
+                        <hi>Et ſapiens &amp; fortis.</hi>
+                     </l>
+                     <l>Both valiant and wiſe.</l>
+                  </q>
+               </p>
+               <p>He knew very well how to hide his deſigns from the Enemy, and alwaies appeared to them to the beſt advantage, though he often was weak<g ref="char:EOLhyphen"/>er than they in number of men.</p>
+               <p n="19">XIX.</p>
+               <p>For his vigor in matter of war, even in his old age,</p>
+               <p>An old ſtreight tree loaden with fruit.</p>
+               <pb n="25" facs="tcp:136218:14"/>
+               <q>
+                  <l>
+                     <hi>Non Anni domuere.</hi>
+                  </l>
+                  <l>His years have not abated of his ſtrength.</l>
+               </q>
+               <p>For the Juſtneſs of his ſoul in his conduct and great actions,</p>
+               <p n="20">XX.</p>
+               <p>A Cheſrook upon a Cheſsbord,
+<q>
+                     <l>
+                        <hi>Nunquam à recto deflectit.</hi>
+                     </l>
+                     <l>It goes alway by direct ways.</l>
+                  </q>
+               </p>
+               <p>For being diſintereſſed, never looking after ſelf ends,</p>
+               <p n="21">XXI.</p>
+               <p>A loadſtone drawing Iron to it, without touch<g ref="char:EOLhyphen"/>ing upon pieces of Gold that lye about it.</p>
+               <q>
+                  <l>
+                     <hi>Non tangitur Auro.</hi>
+                  </l>
+                  <l>Gold has no power over him.</l>
+               </q>
+               <p>At his Death he had but five hundred Crowns in money, and very few days before, he had bor<g ref="char:EOLhyphen"/>rowed a conſiderable ſum of money to cloath part of the Army, he could never be perſwaded to touch great ſums, which he might have com<g ref="char:EOLhyphen"/>manded in thoſe Campaignes he paſſed in <hi>Ger<g ref="char:EOLhyphen"/>many.</hi>
+               </p>
+               <p n="22">XXII.</p>
+               <p>For his converſion to the Catholick Religion,</p>
+               <p>A ſhip toſſed in a ſtorm, a pharus or light houſe upon the Sea coaſt, which at once ſhews him the ſhelves and the haven.</p>
+               <pb n="26" facs="tcp:136218:15"/>
+               <q>
+                  <l>
+                     <hi>Erranti dant clara incendia lucem.</hi>
+                  </l>
+                  <l>By the help of this light he finds his way.</l>
+               </q>
+               <p n="23">XXIII.</p>
+               <p>For the love the Souldiers bore him, being the effect of the great eſteem they had for his merit,</p>
+               <p>The maſter Bee leading a ſwarm.</p>
+               <q>
+                  <l>
+                     <hi>Pro ſtimulo exemplum eſt.</hi>
+                  </l>
+                  <l>His example was a ſting.</l>
+               </q>
+               <p>The King of Bees has no ſting like the reſt, but enforces obedience by ſtill going before them and keeping in their company every where.</p>
+               <p n="24">XXIV.</p>
+               <p>The morning ſtar going before the Sun.</p>
+               <q>
+                  <l>
+                     <hi>Ducem hunc nec habere recuſat.</hi>
+                  </l>
+                  <l>He willingly follows ſuch a guide.</l>
+               </q>
+               <p>The King did Marſhal <hi>Turenne</hi> the honor to be his Scholler, and to learn of him the Art and Myſtery of War.</p>
+               <p n="25">XXV.</p>
+               <p>A blood hound following a herd of Dear through Woods, over Mountains, and Rivers,
+<q>
+                     <l>
+                        <hi>Per Juga, per Fluvios &amp; Sylvas.</hi>
+                     </l>
+                     <l>He followed the Enemy through Woods, Mountains and Rivers.</l>
+                  </q>
+               </p>
+               <p>Upon his Death,</p>
+               <pb n="27" facs="tcp:136218:15"/>
+               <p n="26">XXVI.</p>
+               <p>A Palm-tree thunder-ſtruck, whoſe branches are ſhatter'd and broken.</p>
+               <q>
+                  <l>
+                     <hi>Quot fata huic invidere triumphos?</hi>
+                  </l>
+                  <l>Of how many triumphs do the fates rob him?</l>
+               </q>
+               <p>When Marſhal <hi>Turenne</hi> was kil'd, he was upon the point of performing one of the greateſt Actions of his Life; being ready to involve the Enemies Army in a total ruine.</p>
+               <p n="27">XXVII.</p>
+               <p>A Cannon ſhot overthrowing a Tower, which in the fall cruſhes a great number of the Enemy,
+<q>
+                     <l>
+                        <hi>Et dum Cadit opprimit hoſtem.</hi>
+                     </l>
+                     <l>Even in his fall he deſtroys the foe.</l>
+                  </q>
+               </p>
+               <p>The Enemy were defeated a few days after his Death, by the directions he gave before he died.</p>
+               <p n="28">XXVIII.</p>
+               <p>A Poppy without leaves, the head or crown only remaining,
+<q>
+                     <l>
+                        <hi>Non omnis moriar.</hi>
+                     </l>
+                     <l>I ſhall not all dye.</l>
+                  </q>
+               </p>
+               <p>Though Marſhal <hi>Turenne</hi> be dead, the memo<g ref="char:EOLhyphen"/>ry of his Herock <hi>Actions</hi> can never dye, which will crown him after his death.</p>
+               <pb n="28" facs="tcp:136218:16"/>
+               <p n="29">XXIX.</p>
+               <p>A vaſt Colloſſus overthrown, and broken in pieces; with theſe words of the <hi>7th</hi> of <hi>Pharſalia.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>Quis fuerit ſcire licet.</hi>
+                  </l>
+                  <l>Now may be ſeen what he was.</l>
+               </q>
+               <p n="30">XXX.</p>
+               <p>We might make uſe of theſe words of <hi>Plinius,</hi> ſpeaking of the <hi>Colloſſus Rhodius</hi> when it was thrown down,
+<q>
+                     <l>
+                        <hi>Et Jacens miraculo est.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>The worth of this great Hero never appeared more advantagiouſly than ſince his death.</p>
+               <p n="31">XXXI.</p>
+               <p>Eight Stars and the Sun ſet,
+<q>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nius occaſu.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>The ſetting of this Planet makes many riſe, meaning the eight Marſhals of <hi>France,</hi> created by the King immediately after Marſhal <hi>Turennes</hi> death.</p>
+               <p n="32">XXXII.</p>
+               <p>An Iris or Rainbow diſſolving in dew and rain,
+<q>
+                     <l>
+                        <hi>Deſinit in Lacrimas.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>The ſplendor, the merit, and the vertues of this great man, is the cauſe of our tears.</p>
+            </div>
+            <div type="part">
+               <p>This great and pompous repreſentation ends in a great Inſcription, which is as it were a diſ<g ref="char:EOLhyphen"/>miſſing
+<pb n="29" facs="tcp:136218:16"/>of the aſſiſting ſpectators, after the antient cuſtom of the <hi>Romans,</hi> where a Herald was ap<g ref="char:EOLhyphen"/>pointed to diſmiſs the Mourners with theſe words, <hi>Illicet</hi> or <hi>Irelicet,</hi> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is, you may with<g ref="char:EOLhyphen"/>draw</p>
+               <p>This was a large night piece, wherein was re<g ref="char:EOLhyphen"/>preſented a <hi>Marble Tomb,</hi> carried by Griphons, leaning upon Globes, which are the <hi>Emblems</hi> of <hi>Immortality,</hi> upon this <hi>Tomb</hi> Marſhal <hi>Turenne</hi> was painted, lying in his <hi>Armor,</hi> and leaning upon his right arm, with a leading ſtaff in his left hand. On both ſides of the Tomb, ſtood <hi>Chriſtian Vertue,</hi> and <hi>Military vertue</hi> weeping, the one over his <hi>Helmet,</hi> the other over a <hi>Crown</hi> of <hi>Lawrel,</hi> two great Sque<g ref="char:EOLhyphen"/>letons draw a curtain, to ſhew behind the <hi>Tomb</hi> a <hi>Pyramid, a l'antique</hi> upon the top of which was an <hi>
+                     <g ref="char:V">Ʋ</g>rn,</hi> upon the <hi>Pyramid</hi> was graven this Inſcription:
+<q>
+                     <l>Abi viator,</l>
+                     <l>Et post Impenſas</l>
+                     <l>
+                        <hi>TURENNII</hi>
+                     </l>
+                     <l>Triumphalibus manibus</l>
+                     <l>LACRIMAS;</l>
+                     <l>
+                        <hi>LUDOVICI MAGNI</hi>
+                     </l>
+                     <l>Munificentiam demirare;</l>
+                     <pb n="30" facs="tcp:136218:17" rendition="simple:additions"/>
+                     <l>In hoc ſacro Regni ſui</l>
+                     <l>Capitolio,</l>
+                     <l>Parentat Duci Optimo</l>
+                     <l>Inter hoſtium Manubias;</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>bi Victori Trophœum statuere</l>
+                     <l>Maluiſſet.</l>
+                     <l>Augusto Principi</l>
+                     <l>Vitam impende</l>
+                     <l>Quiſquis Gloriam Amas;</l>
+                     <l>Qui vivos donis auget Regiis,</l>
+                     <l>Sic mortuos Luget.</l>
+                  </q>
+               </p>
+               <p>In Engliſh thus;</p>
+               <p>Paſſenger depart, and having ſhed ſome tears over <hi>Turennes Tomb,</hi> admire the magnificence of <hi>Lewis</hi> the <hi>Great,</hi> who commands this laſt honour to be paid to the memory of this Great Captain, in the midſt of Trophies and ſpoils taken from the Enemies; where he had been more willing to have erected triumphal <hi>Arches</hi> for him, than a Funeral pile. You that love honour lay down your lives for ſo great a Prince, who ſo plenti<g ref="char:EOLhyphen"/>fully rewards thoſe that ſerve him, and cauſes ſuch honour to be given to the memory of thoſe that dye for him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
